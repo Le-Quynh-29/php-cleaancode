@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bce7f1c-1854-40c4-bdce-3cc41acf1de7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Baitap/php-cleancode-refactoring-exercise/TennisGame.php" beforeDir="false" afterPath="$PROJECT_DIR$/Baitap/php-cleancode-refactoring-exercise/TennisGame.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/src/Calculator.php" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/src/Calculator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/tests/CalculatorTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/tests/CalculatorTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/vendor/myclabs/deep-copy/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/vendor/myclabs/deep-copy/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/vendor/phpdocumentor/reflection-common/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/vendor/phpdocumentor/reflection-common/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/vendor/phpunit/php-code-coverage/tests/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/vendor/phpunit/php-code-coverage/tests/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/vendor/phpunit/php-token-stream/tests/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/vendor/phpunit/php-token-stream/tests/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/vendor/phpunit/phpunit/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/vendor/phpunit/phpunit/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/vendor/phpunit/phpunit/src/Framework/MockObject/Generator.php" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/vendor/phpunit/phpunit/src/Framework/MockObject/Generator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/vendor/phpunit/phpunit/src/Framework/MockObject/MockMethod.php" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/vendor/phpunit/phpunit/src/Framework/MockObject/MockMethod.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/vendor/phpunit/phpunit/tests/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/vendor/phpunit/phpunit/tests/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/vendor/sebastian/comparator/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/vendor/sebastian/comparator/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/vendor/sebastian/global-state/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanh1/php-cleancode-refactoring-renaming/vendor/sebastian/global-state/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuchanh2/php-cleancode-refactoring-variable-extraction/FizzBuzz.php" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanh2/php-cleancode-refactoring-variable-extraction/FizzBuzz.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuchanh3/php-cleancode-refactoring-method-extraction/src/Cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanh3/php-cleancode-refactoring-method-extraction/src/Cylinder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuchanh3/php-cleancode-refactoring-method-extraction/test/CylinderTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanh3/php-cleancode-refactoring-method-extraction/test/CylinderTest.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Baitap/php-cleancode-refactoring-exercise" />
+  </component>
+  <component name="ProjectId" id="1kDTQREsycaDuV8WExoAf00bz3A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/thuchanh1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bce7f1c-1854-40c4-bdce-3cc41acf1de7" name="Default Changelist" comment="" />
+      <created>1605234146320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605234146320</updated>
+      <workItem from="1605234147436" duration="8009000" />
+      <workItem from="1605410086616" duration="496000" />
+      <workItem from="1605521844173" duration="360000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="502" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1605243139872">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="502" y="155" width="424" height="491" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1605243139872" />
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1605234176419">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1605234176419" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/thuchanh2/php-cleancode-refactoring-variable-extraction/FizzBuzz.php</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
